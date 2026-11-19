@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "usuario": "professor",
+    "texto": "aula back I",
+    "data": "2026-11-19T18:52:30.668Z"
+  },
+  {
+    "id": 2,
+    "usuario": "arthur",
+    "texto": "oi",
+    "data": "2026-11-19T19:03:06.121Z"
+  },
+  {
+    "id": 3,
+    "usuario": "arthur",
+    "texto": "salve",
+    "data": "2026-11-19T19:03:13.069Z"
+  },
+  {
+    "id": 4,
+    "usuario": "cabeça",
+    "texto": "oii jenyy",
+    "data": "2026-11-19T19:03:32.685Z"
+  }
+]
